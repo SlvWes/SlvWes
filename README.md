@@ -1,19 +1,22 @@
-## Olá eu sou o Wesley Silva 👋
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=110&color=4B0082"/>
 
-- 🚀 Trabalhando em: Projetos de Desenvolvimento Web e Automação com Python
-- 🌱 Aprendendo: Estruturas de Dados, Algoritmos e novas tecnologias Front-end
-- 💡 Procurando ajuda em: Otimização de código e boas práticas de Git/GitHub
-- 💬 Pergunte-me sobre: Python, Git, MongoDB e Desenvolvimento Web
-- 📬 Contato: Email | WhatsApp: +55 11 98799-3250
-
-  <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SlvWes&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=darcula&locale=pt-br&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=SlvWes&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=darcula&hide_border=false" height="150" alt="languages graph"  />
+<div align="center" width="100%">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Pixelify+Sans&pause=1000&color=620682&repeat=false&width=650&lines=Ol%C3%A1!+Sou+Wesley.+Para+falar+comigo%2C+basta+clicar+no+%C3%ADcone+abaixo!" alt="Digitando SVG" />
+  </a>
 </div>
 
-###
+<br><br>
 
-<img align="right" height="190" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGdnMThpb3U5ZjBlc2xmd2tiNG1lMjVhMHFpbmJ6aWVkZ2s4cWcxYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif"  />
+<div align="center" style="width: 100%; overflow-x: auto;">
+
+  | ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=SlvWes&theme=jolly) | ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=SlvWes&theme=jolly) | ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=SlvWes&theme=jolly&utcOffset=8)
+  | :-: | :-: | :-: |
+
+  | ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SlvWes&theme=jolly) | [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=SlvWes&theme=jolly&hide_border=true)](https://git.io/streak-stats)
+  | :-: | :-: |
+
+</div>
 
 ###
 
@@ -39,10 +42,10 @@
   </a>
 </div>
 
-<picture align="center">
+<picture style="display: block; margin: 0 auto; width: 100%;">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SlvWes/SlvWes/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SlvWes/SlvWes/output/github-contribution-grid-snake-dark.svg">
-  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/SlvWes/SlvWes/output/github-contribution-grid-snake.svg">
+  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/SlvWes/SlvWes/output/github-contribution-grid-snake.svg" style="width: 100%; max-width: 100%; height: auto;">
 </picture>
 
-
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=110&color=4B0082&section=footer"/>
