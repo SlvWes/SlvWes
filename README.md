@@ -13,8 +13,8 @@
   | ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=SlvWes&theme=jolly) | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SlvWes&theme=jolly) | ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=SlvWes&theme=jolly&utcOffset=8)
   | :-: | :-: | :-: |
 
-  | ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SlvWes&theme=jolly) | [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=SlvWes&theme=jolly&hide_border=true)](https://git.io/streak-stats)
-  | :-: | :-: |
+  | ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SlvWes&theme=jolly) 
+  | :-: | 
 
 
 </div>
